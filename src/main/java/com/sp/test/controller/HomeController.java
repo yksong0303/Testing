@@ -1,4 +1,4 @@
-package com.sp.test;
+package com.sp.test.controller;
 
 import java.text.DateFormat;
 import java.util.Date;
